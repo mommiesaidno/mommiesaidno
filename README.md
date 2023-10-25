@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mommiesaidno
 - 👀 I’m interested in psychology, child development, parent-child relations and obviously coding
 - 🌱 I’m currently learning how to code in Java
-- 💞️ I’m looking to collaborate on projects
+- 💞️ I’m looking to collaborate on Java projects
 - 📫 You can reach me by email at k_mondesir@live.concordia.ca
 
 <!---
